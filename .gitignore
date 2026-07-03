@@ -1,0 +1,8 @@
+# Ignore Python compilation caches
+__pycache__/
+*.pyc
+
+# Ignore temporary text/csv files or specific system data
+sim/traces/_tmp_*
+sketch.json
+table.json
