@@ -31,3 +31,11 @@ A deterministic benchmarking script designed to execute a synchronized 4-way arc
 
 - **Unified Constraints:** Enforces a rigid, shared parameter dictionary (e.g., 2,000 TCAM entries, 50ms rule lifetime) across all models to guarantee experimental control.
 - **Automated Export:** Aggregates performance metrics (drops, TCAM peak, control messages) into a standardized CSV format for downstream plotting and analysis.
+
+## Multi-Seed Orchestration (sim/run_multiseed.py)
+
+An automated benchmarking orchestrator designed to establish statistical significance across randomized traffic distributions.
+
+- **Dynamic Workload Generation:** Autonomously generates distinct, deterministic synthetic traffic traces per execution seed to evaluate algorithmic resilience against varying background noise.
+- **Statistical Aggregation:** Computes programmatic variance metrics, including Mean, Standard Deviation, and 95% Confidence Intervals, across all simulation iterations.
+- **Artifact Management:** Outputs localized directory structures containing raw execution data (`per_seed.csv`), aggregated statistics (`summary.csv`), and environmental state tracking (`metadata.json`).
