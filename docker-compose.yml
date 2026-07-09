@@ -1,0 +1,15 @@
+version: '3.8'
+
+services:
+  flowweave-sim:
+    build: .
+    volumes:
+      # Sync the container's results folder with the local hard drive
+      - ./sim/results:/app/sim/results
+    command: >
+      bash -c "
+      echo 'Running Targeted Parameter Sweep...' &&
+      python sim/targeted_sweep.py --seeds 2 --bg 5.0 &&
+      echo 'Running Plotting Script...' &&
+      python sim/plot_results.py
+      "
