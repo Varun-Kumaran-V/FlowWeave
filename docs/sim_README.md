@@ -47,3 +47,10 @@ A combinatorial grid-search orchestrator designed to evaluate FlowWeave's sensit
 - **Matrix Evaluation:** Utilizes combinatorial cross-products to automatically test matrices of Bloom Filter error tolerances against derivative detection thresholds.
 - **Multi-Dimensional Aggregation:** Nests multi-seed statistical variance tracking within parameter iteration loops to ensure tuning recommendations are mathematically robust.
 - **Tuning Artifacts:** Outputs a specialized `targeted_summary.csv` designed to identify Pareto-optimal parameter configurations.
+
+## 3D Parameter Profiler (sim/param_sweep.py)
+
+An isolated profiling script used to map FlowWeave's internal behavioral surface across a three-dimensional parameter grid.
+
+- **Isolated Execution:** Bypasses baseline models to exclusively stress-test FlowWeave's adaptive mathematical core.
+- **Automated Visualization:** Integrates `matplotlib` to autonomously generate and export line graphs plotting architectural overhead (TCAM usage, control signaling) against algorithmic sensitivity triggers.
