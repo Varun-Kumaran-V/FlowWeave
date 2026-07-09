@@ -39,3 +39,11 @@ An automated benchmarking orchestrator designed to establish statistical signifi
 - **Dynamic Workload Generation:** Autonomously generates distinct, deterministic synthetic traffic traces per execution seed to evaluate algorithmic resilience against varying background noise.
 - **Statistical Aggregation:** Computes programmatic variance metrics, including Mean, Standard Deviation, and 95% Confidence Intervals, across all simulation iterations.
 - **Artifact Management:** Outputs localized directory structures containing raw execution data (`per_seed.csv`), aggregated statistics (`summary.csv`), and environmental state tracking (`metadata.json`).
+
+## Targeted Parameter Sweep (sim/targeted_sweep.py)
+
+A combinatorial grid-search orchestrator designed to evaluate FlowWeave's sensitivity to internal threshold tuning.
+
+- **Matrix Evaluation:** Utilizes combinatorial cross-products to automatically test matrices of Bloom Filter error tolerances against derivative detection thresholds.
+- **Multi-Dimensional Aggregation:** Nests multi-seed statistical variance tracking within parameter iteration loops to ensure tuning recommendations are mathematically robust.
+- **Tuning Artifacts:** Outputs a specialized `targeted_summary.csv` designed to identify Pareto-optimal parameter configurations.
