@@ -6,3 +6,9 @@ __pycache__/
 sim/traces/_tmp_*
 sketch.json
 table.json
+
+# Ignore generated simulation results and graphs
+sim/results/
+
+# Ignore temporary controller metric dumps
+metrics.json
