@@ -54,3 +54,10 @@ An isolated profiling script used to map FlowWeave's internal behavioral surface
 
 - **Isolated Execution:** Bypasses baseline models to exclusively stress-test FlowWeave's adaptive mathematical core.
 - **Automated Visualization:** Integrates `matplotlib` to autonomously generate and export line graphs plotting architectural overhead (TCAM usage, control signaling) against algorithmic sensitivity triggers.
+
+## Master Visualization Script (sim/plot_results.py)
+
+The final pipeline stage responsible for translating aggregated statistical matrices into publication-ready figures.
+
+- **Cross-Scenario Ingestion:** Autonomously navigates the `sim/results/` directory structure to aggregate data across varying environmental stress tests (Poisson, ON-OFF, Skewed).
+- **Pareto Mapping:** Generates scatter-plot visualizations to identify the Pareto frontier, mapping the optimal operational tradeoffs between TCAM saturation and control-plane signaling reduction.
