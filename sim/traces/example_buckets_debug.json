@@ -1,0 +1,1013 @@
+{
+  "report_interval_ms": 10,
+  "buckets": [
+    {
+      "bucket_start_ms": -10,
+      "arrivals": 383
+    },
+    {
+      "bucket_start_ms": 0,
+      "arrivals": 1720
+    },
+    {
+      "bucket_start_ms": 10,
+      "arrivals": 53
+    },
+    {
+      "bucket_start_ms": 20,
+      "arrivals": 54
+    },
+    {
+      "bucket_start_ms": 30,
+      "arrivals": 52
+    },
+    {
+      "bucket_start_ms": 40,
+      "arrivals": 602
+    },
+    {
+      "bucket_start_ms": 50,
+      "arrivals": 1547
+    },
+    {
+      "bucket_start_ms": 60,
+      "arrivals": 57
+    },
+    {
+      "bucket_start_ms": 70,
+      "arrivals": 63
+    },
+    {
+      "bucket_start_ms": 80,
+      "arrivals": 42
+    },
+    {
+      "bucket_start_ms": 90,
+      "arrivals": 911
+    },
+    {
+      "bucket_start_ms": 100,
+      "arrivals": 1236
+    },
+    {
+      "bucket_start_ms": 110,
+      "arrivals": 51
+    },
+    {
+      "bucket_start_ms": 120,
+      "arrivals": 38
+    },
+    {
+      "bucket_start_ms": 130,
+      "arrivals": 55
+    },
+    {
+      "bucket_start_ms": 140,
+      "arrivals": 29
+    },
+    {
+      "bucket_start_ms": 150,
+      "arrivals": 2093
+    },
+    {
+      "bucket_start_ms": 160,
+      "arrivals": 49
+    },
+    {
+      "bucket_start_ms": 170,
+      "arrivals": 48
+    },
+    {
+      "bucket_start_ms": 180,
+      "arrivals": 55
+    },
+    {
+      "bucket_start_ms": 190,
+      "arrivals": 1030
+    },
+    {
+      "bucket_start_ms": 200,
+      "arrivals": 1124
+    },
+    {
+      "bucket_start_ms": 210,
+      "arrivals": 58
+    },
+    {
+      "bucket_start_ms": 220,
+      "arrivals": 56
+    },
+    {
+      "bucket_start_ms": 230,
+      "arrivals": 57
+    },
+    {
+      "bucket_start_ms": 240,
+      "arrivals": 48
+    },
+    {
+      "bucket_start_ms": 250,
+      "arrivals": 2093
+    },
+    {
+      "bucket_start_ms": 260,
+      "arrivals": 47
+    },
+    {
+      "bucket_start_ms": 270,
+      "arrivals": 41
+    },
+    {
+      "bucket_start_ms": 280,
+      "arrivals": 48
+    },
+    {
+      "bucket_start_ms": 290,
+      "arrivals": 42
+    },
+    {
+      "bucket_start_ms": 300,
+      "arrivals": 2105
+    },
+    {
+      "bucket_start_ms": 310,
+      "arrivals": 61
+    },
+    {
+      "bucket_start_ms": 320,
+      "arrivals": 56
+    },
+    {
+      "bucket_start_ms": 330,
+      "arrivals": 46
+    },
+    {
+      "bucket_start_ms": 340,
+      "arrivals": 550
+    },
+    {
+      "bucket_start_ms": 350,
+      "arrivals": 1617
+    },
+    {
+      "bucket_start_ms": 360,
+      "arrivals": 54
+    },
+    {
+      "bucket_start_ms": 370,
+      "arrivals": 44
+    },
+    {
+      "bucket_start_ms": 380,
+      "arrivals": 46
+    },
+    {
+      "bucket_start_ms": 390,
+      "arrivals": 944
+    },
+    {
+      "bucket_start_ms": 400,
+      "arrivals": 1222
+    },
+    {
+      "bucket_start_ms": 410,
+      "arrivals": 56
+    },
+    {
+      "bucket_start_ms": 420,
+      "arrivals": 55
+    },
+    {
+      "bucket_start_ms": 430,
+      "arrivals": 46
+    },
+    {
+      "bucket_start_ms": 440,
+      "arrivals": 956
+    },
+    {
+      "bucket_start_ms": 450,
+      "arrivals": 1194
+    },
+    {
+      "bucket_start_ms": 460,
+      "arrivals": 53
+    },
+    {
+      "bucket_start_ms": 470,
+      "arrivals": 50
+    },
+    {
+      "bucket_start_ms": 480,
+      "arrivals": 40
+    },
+    {
+      "bucket_start_ms": 490,
+      "arrivals": 823
+    },
+    {
+      "bucket_start_ms": 500,
+      "arrivals": 1331
+    },
+    {
+      "bucket_start_ms": 510,
+      "arrivals": 43
+    },
+    {
+      "bucket_start_ms": 520,
+      "arrivals": 55
+    },
+    {
+      "bucket_start_ms": 530,
+      "arrivals": 50
+    },
+    {
+      "bucket_start_ms": 540,
+      "arrivals": 1056
+    },
+    {
+      "bucket_start_ms": 550,
+      "arrivals": 1106
+    },
+    {
+      "bucket_start_ms": 560,
+      "arrivals": 59
+    },
+    {
+      "bucket_start_ms": 570,
+      "arrivals": 40
+    },
+    {
+      "bucket_start_ms": 580,
+      "arrivals": 53
+    },
+    {
+      "bucket_start_ms": 590,
+      "arrivals": 58
+    },
+    {
+      "bucket_start_ms": 600,
+      "arrivals": 2094
+    },
+    {
+      "bucket_start_ms": 610,
+      "arrivals": 51
+    },
+    {
+      "bucket_start_ms": 620,
+      "arrivals": 49
+    },
+    {
+      "bucket_start_ms": 630,
+      "arrivals": 36
+    },
+    {
+      "bucket_start_ms": 640,
+      "arrivals": 50
+    },
+    {
+      "bucket_start_ms": 650,
+      "arrivals": 2083
+    },
+    {
+      "bucket_start_ms": 660,
+      "arrivals": 49
+    },
+    {
+      "bucket_start_ms": 670,
+      "arrivals": 36
+    },
+    {
+      "bucket_start_ms": 680,
+      "arrivals": 47
+    },
+    {
+      "bucket_start_ms": 690,
+      "arrivals": 44
+    },
+    {
+      "bucket_start_ms": 700,
+      "arrivals": 2085
+    },
+    {
+      "bucket_start_ms": 710,
+      "arrivals": 51
+    },
+    {
+      "bucket_start_ms": 720,
+      "arrivals": 44
+    },
+    {
+      "bucket_start_ms": 730,
+      "arrivals": 37
+    },
+    {
+      "bucket_start_ms": 740,
+      "arrivals": 277
+    },
+    {
+      "bucket_start_ms": 750,
+      "arrivals": 1866
+    },
+    {
+      "bucket_start_ms": 760,
+      "arrivals": 73
+    },
+    {
+      "bucket_start_ms": 770,
+      "arrivals": 45
+    },
+    {
+      "bucket_start_ms": 780,
+      "arrivals": 42
+    },
+    {
+      "bucket_start_ms": 790,
+      "arrivals": 47
+    },
+    {
+      "bucket_start_ms": 800,
+      "arrivals": 2113
+    },
+    {
+      "bucket_start_ms": 810,
+      "arrivals": 44
+    },
+    {
+      "bucket_start_ms": 820,
+      "arrivals": 60
+    },
+    {
+      "bucket_start_ms": 830,
+      "arrivals": 57
+    },
+    {
+      "bucket_start_ms": 840,
+      "arrivals": 51
+    },
+    {
+      "bucket_start_ms": 850,
+      "arrivals": 2088
+    },
+    {
+      "bucket_start_ms": 860,
+      "arrivals": 45
+    },
+    {
+      "bucket_start_ms": 870,
+      "arrivals": 49
+    },
+    {
+      "bucket_start_ms": 880,
+      "arrivals": 60
+    },
+    {
+      "bucket_start_ms": 890,
+      "arrivals": 577
+    },
+    {
+      "bucket_start_ms": 900,
+      "arrivals": 1568
+    },
+    {
+      "bucket_start_ms": 910,
+      "arrivals": 43
+    },
+    {
+      "bucket_start_ms": 920,
+      "arrivals": 41
+    },
+    {
+      "bucket_start_ms": 930,
+      "arrivals": 42
+    },
+    {
+      "bucket_start_ms": 940,
+      "arrivals": 43
+    },
+    {
+      "bucket_start_ms": 950,
+      "arrivals": 2106
+    },
+    {
+      "bucket_start_ms": 960,
+      "arrivals": 43
+    },
+    {
+      "bucket_start_ms": 970,
+      "arrivals": 50
+    },
+    {
+      "bucket_start_ms": 980,
+      "arrivals": 49
+    },
+    {
+      "bucket_start_ms": 990,
+      "arrivals": 986
+    },
+    {
+      "bucket_start_ms": 1000,
+      "arrivals": 1153
+    },
+    {
+      "bucket_start_ms": 1010,
+      "arrivals": 70
+    },
+    {
+      "bucket_start_ms": 1020,
+      "arrivals": 44
+    },
+    {
+      "bucket_start_ms": 1030,
+      "arrivals": 52
+    },
+    {
+      "bucket_start_ms": 1040,
+      "arrivals": 48
+    },
+    {
+      "bucket_start_ms": 1050,
+      "arrivals": 2099
+    },
+    {
+      "bucket_start_ms": 1060,
+      "arrivals": 56
+    },
+    {
+      "bucket_start_ms": 1070,
+      "arrivals": 51
+    },
+    {
+      "bucket_start_ms": 1080,
+      "arrivals": 54
+    },
+    {
+      "bucket_start_ms": 1090,
+      "arrivals": 69
+    },
+    {
+      "bucket_start_ms": 1100,
+      "arrivals": 2108
+    },
+    {
+      "bucket_start_ms": 1110,
+      "arrivals": 56
+    },
+    {
+      "bucket_start_ms": 1120,
+      "arrivals": 66
+    },
+    {
+      "bucket_start_ms": 1130,
+      "arrivals": 52
+    },
+    {
+      "bucket_start_ms": 1140,
+      "arrivals": 828
+    },
+    {
+      "bucket_start_ms": 1150,
+      "arrivals": 1310
+    },
+    {
+      "bucket_start_ms": 1160,
+      "arrivals": 51
+    },
+    {
+      "bucket_start_ms": 1170,
+      "arrivals": 47
+    },
+    {
+      "bucket_start_ms": 1180,
+      "arrivals": 56
+    },
+    {
+      "bucket_start_ms": 1190,
+      "arrivals": 897
+    },
+    {
+      "bucket_start_ms": 1200,
+      "arrivals": 1246
+    },
+    {
+      "bucket_start_ms": 1210,
+      "arrivals": 45
+    },
+    {
+      "bucket_start_ms": 1220,
+      "arrivals": 46
+    },
+    {
+      "bucket_start_ms": 1230,
+      "arrivals": 57
+    },
+    {
+      "bucket_start_ms": 1240,
+      "arrivals": 982
+    },
+    {
+      "bucket_start_ms": 1250,
+      "arrivals": 1175
+    },
+    {
+      "bucket_start_ms": 1260,
+      "arrivals": 52
+    },
+    {
+      "bucket_start_ms": 1270,
+      "arrivals": 43
+    },
+    {
+      "bucket_start_ms": 1280,
+      "arrivals": 43
+    },
+    {
+      "bucket_start_ms": 1290,
+      "arrivals": 45
+    },
+    {
+      "bucket_start_ms": 1300,
+      "arrivals": 2100
+    },
+    {
+      "bucket_start_ms": 1310,
+      "arrivals": 55
+    },
+    {
+      "bucket_start_ms": 1320,
+      "arrivals": 55
+    },
+    {
+      "bucket_start_ms": 1330,
+      "arrivals": 52
+    },
+    {
+      "bucket_start_ms": 1340,
+      "arrivals": 327
+    },
+    {
+      "bucket_start_ms": 1350,
+      "arrivals": 1813
+    },
+    {
+      "bucket_start_ms": 1360,
+      "arrivals": 67
+    },
+    {
+      "bucket_start_ms": 1370,
+      "arrivals": 58
+    },
+    {
+      "bucket_start_ms": 1380,
+      "arrivals": 47
+    },
+    {
+      "bucket_start_ms": 1390,
+      "arrivals": 330
+    },
+    {
+      "bucket_start_ms": 1400,
+      "arrivals": 1811
+    },
+    {
+      "bucket_start_ms": 1410,
+      "arrivals": 52
+    },
+    {
+      "bucket_start_ms": 1420,
+      "arrivals": 45
+    },
+    {
+      "bucket_start_ms": 1430,
+      "arrivals": 39
+    },
+    {
+      "bucket_start_ms": 1440,
+      "arrivals": 47
+    },
+    {
+      "bucket_start_ms": 1450,
+      "arrivals": 2093
+    },
+    {
+      "bucket_start_ms": 1460,
+      "arrivals": 66
+    },
+    {
+      "bucket_start_ms": 1470,
+      "arrivals": 40
+    },
+    {
+      "bucket_start_ms": 1480,
+      "arrivals": 42
+    },
+    {
+      "bucket_start_ms": 1490,
+      "arrivals": 58
+    },
+    {
+      "bucket_start_ms": 1500,
+      "arrivals": 2106
+    },
+    {
+      "bucket_start_ms": 1510,
+      "arrivals": 50
+    },
+    {
+      "bucket_start_ms": 1520,
+      "arrivals": 60
+    },
+    {
+      "bucket_start_ms": 1530,
+      "arrivals": 52
+    },
+    {
+      "bucket_start_ms": 1540,
+      "arrivals": 660
+    },
+    {
+      "bucket_start_ms": 1550,
+      "arrivals": 1496
+    },
+    {
+      "bucket_start_ms": 1560,
+      "arrivals": 41
+    },
+    {
+      "bucket_start_ms": 1570,
+      "arrivals": 44
+    },
+    {
+      "bucket_start_ms": 1580,
+      "arrivals": 46
+    },
+    {
+      "bucket_start_ms": 1590,
+      "arrivals": 41
+    },
+    {
+      "bucket_start_ms": 1600,
+      "arrivals": 2105
+    },
+    {
+      "bucket_start_ms": 1610,
+      "arrivals": 39
+    },
+    {
+      "bucket_start_ms": 1620,
+      "arrivals": 60
+    },
+    {
+      "bucket_start_ms": 1630,
+      "arrivals": 50
+    },
+    {
+      "bucket_start_ms": 1640,
+      "arrivals": 51
+    },
+    {
+      "bucket_start_ms": 1650,
+      "arrivals": 2098
+    },
+    {
+      "bucket_start_ms": 1660,
+      "arrivals": 62
+    },
+    {
+      "bucket_start_ms": 1670,
+      "arrivals": 50
+    },
+    {
+      "bucket_start_ms": 1680,
+      "arrivals": 59
+    },
+    {
+      "bucket_start_ms": 1690,
+      "arrivals": 669
+    },
+    {
+      "bucket_start_ms": 1700,
+      "arrivals": 1474
+    },
+    {
+      "bucket_start_ms": 1710,
+      "arrivals": 55
+    },
+    {
+      "bucket_start_ms": 1720,
+      "arrivals": 54
+    },
+    {
+      "bucket_start_ms": 1730,
+      "arrivals": 46
+    },
+    {
+      "bucket_start_ms": 1740,
+      "arrivals": 52
+    },
+    {
+      "bucket_start_ms": 1750,
+      "arrivals": 2110
+    },
+    {
+      "bucket_start_ms": 1760,
+      "arrivals": 49
+    },
+    {
+      "bucket_start_ms": 1770,
+      "arrivals": 55
+    },
+    {
+      "bucket_start_ms": 1780,
+      "arrivals": 58
+    },
+    {
+      "bucket_start_ms": 1790,
+      "arrivals": 72
+    },
+    {
+      "bucket_start_ms": 1800,
+      "arrivals": 2070
+    },
+    {
+      "bucket_start_ms": 1810,
+      "arrivals": 58
+    },
+    {
+      "bucket_start_ms": 1820,
+      "arrivals": 43
+    },
+    {
+      "bucket_start_ms": 1830,
+      "arrivals": 47
+    },
+    {
+      "bucket_start_ms": 1840,
+      "arrivals": 135
+    },
+    {
+      "bucket_start_ms": 1850,
+      "arrivals": 2011
+    },
+    {
+      "bucket_start_ms": 1860,
+      "arrivals": 57
+    },
+    {
+      "bucket_start_ms": 1870,
+      "arrivals": 52
+    },
+    {
+      "bucket_start_ms": 1880,
+      "arrivals": 54
+    },
+    {
+      "bucket_start_ms": 1890,
+      "arrivals": 701
+    },
+    {
+      "bucket_start_ms": 1900,
+      "arrivals": 1437
+    },
+    {
+      "bucket_start_ms": 1910,
+      "arrivals": 51
+    },
+    {
+      "bucket_start_ms": 1920,
+      "arrivals": 41
+    },
+    {
+      "bucket_start_ms": 1930,
+      "arrivals": 52
+    },
+    {
+      "bucket_start_ms": 1940,
+      "arrivals": 40
+    },
+    {
+      "bucket_start_ms": 1950,
+      "arrivals": 2105
+    },
+    {
+      "bucket_start_ms": 1960,
+      "arrivals": 48
+    },
+    {
+      "bucket_start_ms": 1970,
+      "arrivals": 51
+    },
+    {
+      "bucket_start_ms": 1980,
+      "arrivals": 58
+    },
+    {
+      "bucket_start_ms": 1990,
+      "arrivals": 58
+    },
+    {
+      "bucket_start_ms": 2000,
+      "arrivals": 2107
+    },
+    {
+      "bucket_start_ms": 2010,
+      "arrivals": 50
+    },
+    {
+      "bucket_start_ms": 2020,
+      "arrivals": 57
+    },
+    {
+      "bucket_start_ms": 2030,
+      "arrivals": 46
+    },
+    {
+      "bucket_start_ms": 2040,
+      "arrivals": 41
+    },
+    {
+      "bucket_start_ms": 2050,
+      "arrivals": 2098
+    },
+    {
+      "bucket_start_ms": 2060,
+      "arrivals": 53
+    },
+    {
+      "bucket_start_ms": 2070,
+      "arrivals": 51
+    },
+    {
+      "bucket_start_ms": 2080,
+      "arrivals": 47
+    },
+    {
+      "bucket_start_ms": 2090,
+      "arrivals": 57
+    },
+    {
+      "bucket_start_ms": 2100,
+      "arrivals": 2104
+    },
+    {
+      "bucket_start_ms": 2110,
+      "arrivals": 59
+    },
+    {
+      "bucket_start_ms": 2120,
+      "arrivals": 48
+    },
+    {
+      "bucket_start_ms": 2130,
+      "arrivals": 61
+    },
+    {
+      "bucket_start_ms": 2140,
+      "arrivals": 57
+    },
+    {
+      "bucket_start_ms": 2150,
+      "arrivals": 2096
+    },
+    {
+      "bucket_start_ms": 2160,
+      "arrivals": 50
+    },
+    {
+      "bucket_start_ms": 2170,
+      "arrivals": 50
+    },
+    {
+      "bucket_start_ms": 2180,
+      "arrivals": 42
+    },
+    {
+      "bucket_start_ms": 2190,
+      "arrivals": 55
+    },
+    {
+      "bucket_start_ms": 2200,
+      "arrivals": 2091
+    },
+    {
+      "bucket_start_ms": 2210,
+      "arrivals": 59
+    },
+    {
+      "bucket_start_ms": 2220,
+      "arrivals": 43
+    },
+    {
+      "bucket_start_ms": 2230,
+      "arrivals": 64
+    },
+    {
+      "bucket_start_ms": 2240,
+      "arrivals": 282
+    },
+    {
+      "bucket_start_ms": 2250,
+      "arrivals": 1853
+    },
+    {
+      "bucket_start_ms": 2260,
+      "arrivals": 56
+    },
+    {
+      "bucket_start_ms": 2270,
+      "arrivals": 53
+    },
+    {
+      "bucket_start_ms": 2280,
+      "arrivals": 51
+    },
+    {
+      "bucket_start_ms": 2290,
+      "arrivals": 47
+    },
+    {
+      "bucket_start_ms": 2300,
+      "arrivals": 2084
+    },
+    {
+      "bucket_start_ms": 2310,
+      "arrivals": 54
+    },
+    {
+      "bucket_start_ms": 2320,
+      "arrivals": 61
+    },
+    {
+      "bucket_start_ms": 2330,
+      "arrivals": 52
+    },
+    {
+      "bucket_start_ms": 2340,
+      "arrivals": 403
+    },
+    {
+      "bucket_start_ms": 2350,
+      "arrivals": 1765
+    },
+    {
+      "bucket_start_ms": 2360,
+      "arrivals": 48
+    },
+    {
+      "bucket_start_ms": 2370,
+      "arrivals": 47
+    },
+    {
+      "bucket_start_ms": 2380,
+      "arrivals": 52
+    },
+    {
+      "bucket_start_ms": 2390,
+      "arrivals": 70
+    },
+    {
+      "bucket_start_ms": 2400,
+      "arrivals": 2109
+    },
+    {
+      "bucket_start_ms": 2410,
+      "arrivals": 49
+    },
+    {
+      "bucket_start_ms": 2420,
+      "arrivals": 51
+    },
+    {
+      "bucket_start_ms": 2430,
+      "arrivals": 49
+    },
+    {
+      "bucket_start_ms": 2440,
+      "arrivals": 1074
+    },
+    {
+      "bucket_start_ms": 2450,
+      "arrivals": 1085
+    },
+    {
+      "bucket_start_ms": 2460,
+      "arrivals": 46
+    },
+    {
+      "bucket_start_ms": 2470,
+      "arrivals": 42
+    },
+    {
+      "bucket_start_ms": 2480,
+      "arrivals": 47
+    },
+    {
+      "bucket_start_ms": 2490,
+      "arrivals": 57
+    },
+    {
+      "bucket_start_ms": 2500,
+      "arrivals": 13
+    }
+  ]
+}
